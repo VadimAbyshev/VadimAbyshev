@@ -1,7 +1,6 @@
 <h1 align="center">Привет, меня зовут Вадим</h1>
 <h3 align="center">Я не профессиональный frontend разработчик</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vadimabyshev&label=Profile%20views&color=0e75b6&style=flat" alt="vadimabyshev" /> </p>
 
 - 🌱 Я успешно прошел обучение в **Яндекс.Практикум**
 
